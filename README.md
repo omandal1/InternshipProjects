@@ -1,1 +1,3 @@
 # InternshipProjects
+
+Hello! Welcome to my internship repo, this is where documentation about my past internship experience is. Here you will see not only code but also presentations and documentation on what I did and how it was used!
